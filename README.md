@@ -1,5 +1,5 @@
-# SITE ALMACEN
-Aplicación Web Básica para realizar registros en un almacén,
+# SITE VEHICULOS
+Aplicación Web Básica para realizar registros de multas
 
 
 ## Técnologías implementadas
