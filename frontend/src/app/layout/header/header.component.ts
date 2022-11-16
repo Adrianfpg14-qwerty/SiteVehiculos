@@ -10,6 +10,7 @@ export class HeaderComponent implements OnInit {
   estilosMenu: {} = {
     'background-color': '#8DC3D8',
     border: '0',
+    padding: '0px 0px 0px 0px',
   };
   constructor() {}
 

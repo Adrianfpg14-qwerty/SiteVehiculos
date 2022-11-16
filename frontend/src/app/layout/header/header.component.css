@@ -1,3 +1,20 @@
 #header-icon {
-    height: 40%;
+    height: 160px;
+}
+
+#agencia-logo {
+    height: 100%;
+}
+#simit-logo{
+    padding: 0px 10px 0px 100px;
+    height: 160px;
+}
+
+#u-logo{
+    padding: 20px 20px 0px 240px;
+    height: 160px;
+}
+
+#menu{
+    padding: 0px 100px 0px 0px;
 }
